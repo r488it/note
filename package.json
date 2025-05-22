@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  },
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r488it/zenn_agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r488it/zenn_agent/issues"
+  },
+  "homepage": "https://github.com/r488it/zenn_agent#readme",
+  "description": "",
+  "devDependencies": {
+    "puppeteer": "10.4.0"
+  }
+}
